@@ -9,6 +9,6 @@ Today I worked on making the entire schematic and research RC circuits.
 
 ![image](https://cdn.hackclub.com/019cf48a-7eb3-715d-9731-89dcc12014c1/Screenshot%202026-03-16%2002.46.50.png)
 
-I ran into a misplacement error, so I researched it and found out that I misplaced the capacitor.
+I ran into a misplacement error, so I researched it and found out that I misplaced the capacitor.I also looked at some forums etc, turns out its hard to get exact near millisecond precision because over length the power went down a bit and that was hard to estimate so i did my best in this!.
 
 ### Time Spent: 2 Hours

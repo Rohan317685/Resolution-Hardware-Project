@@ -11,4 +11,10 @@ Today I worked on making the entire schematic and research RC circuits.
 
 I ran into a misplacement error, so I researched it and found out that I misplaced the capacitor.I also looked at some forums etc, turns out its hard to get exact near millisecond precision because over length the power went down a bit and that was hard to estimate so i did my best in this!.
 
+I also looked at this article! [Understanding RC Circuits](https://www.sciencedirect.com/topics/physics-and-astronomy/rc-circuit) 
+It was quite enjoyable however there was a lot of stuff I didnt understand so I had to google them and I just left a few complex equations.
+
+I also had a look at this and It explained about RC circuits better and the formulas I actually needed! [RC charging circuit](https://www.electronics-tutorials.ws/rc/rc_1.html) 
+
+
 ### Time Spent: 2 Hours
